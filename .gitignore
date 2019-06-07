@@ -1,0 +1,5 @@
+
+bin-int/*
+bin/*
+
+*.vcxproj
